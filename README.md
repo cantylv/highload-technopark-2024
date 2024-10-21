@@ -91,7 +91,7 @@ $$
 Получим: 
 
 $$
-  memoryUsage = \frac{25 \times 10^6 \times 4.3 KB}{1024 \times 1024} = 102.52 GB
+  memoryUsage = \frac{25 \times 10^6 \times 4.3/,KB}{1024 \times 1024} = 102.52GB
 $$
 
 #### Средний размер хранилища медиа
