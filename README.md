@@ -762,7 +762,9 @@ $$
 
 $$
   deltaRPS = 8921.7 \times (1.4 - 1) = 3568.68 RPS
+$$
 
+$$
   deltaNetworkData = 19.0788 \times (1.4 - 1) = 7.631520000000001 GB/sec
 $$
 
